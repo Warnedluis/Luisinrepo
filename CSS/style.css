@@ -1,0 +1,48 @@
+h1{
+      color:blue;
+}
+body{
+          background-color:pink;
+}
+h2{
+      color:#92ADCB;
+      font-family:calibri;
+      font-size:24
+}
+p{
+    color:white;
+    font-family:Calibri;
+    font-size:20
+}
+img.imagen-a-cambiar{
+   width:150px;
+   height:145px;
+}
+h1.titulo-importante{
+   color:blue;
+   font-family:Calibri;
+   font-size:45
+}
+img.perro-triste{
+  width: 100%;
+    margin: 13%;
+    width: 65px;
+    border-radius: 50px 50% 50% 50%;
+    height: 156px;
+}
+table{
+   width:50%;
+   height:50%;
+}
+th, td{
+   border: black 1px solid;
+   width:80%;
+}
+img.imagen-a-cambiar{
+  width: 100%;
+    margin: 13%;
+    width: 65px;
+    border-radius: 50px 50% 50% 50%;
+    height: 156px;
+}
+
