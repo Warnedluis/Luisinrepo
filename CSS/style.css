@@ -154,4 +154,28 @@ nav a:hover {
 .form-style-6 input[type="button"]:hover{
 	background: #2EBC99;
 }
+.img-2 {
+  position: relative;  
+  background: orange;
+  width: 100px;
+  height: 100px;
+  top: -20px;         
+  left: 500px;        
+}
+.img-1 {
+  position: relative;  
+  background: orange;
+  width: 100px;
+  height: 100px;
+  top: 100px;        
+  left: 300px;        
+}
+.img-3 {
+  position: relative;  
+  background: orange;
+  width: 100px;
+  height: 100px;
+  top: -140px;     
+  left: 100px;        
+}
 
