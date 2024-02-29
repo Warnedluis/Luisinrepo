@@ -178,4 +178,34 @@ nav a:hover {
   top: -140px;     
   left: 100px;        
 }
-
+aside{
+  width: 40;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float:right;
+  box-shadow:inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #29627e;
+}
+div.division{
+  border:5px inset rgb(196, 55, 55);
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  width: 400px;
+  height: 75px;
+  margin-left:100px;
+  background-image:url(https://pbs.twimg.com/media/D1Gn100XQAAhI_Q.png)
+}
+div.division2{
+  border:5px inset rgb(196, 55, 55);
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  width: 400px;
+  height: 75px;
+  margin-left:100px;
+  margin-top:50px;
+  background-color: #30C29E;
+  text-align:justify;
+}
