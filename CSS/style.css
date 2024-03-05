@@ -209,3 +209,20 @@ div.division2{
   background-color: #30C29E;
   text-align:justify;
 }
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+div.Division1{
+  animation: rotate 2s linear infinite;
+  width:10px;
+  height:20px;
+  margin-left:100px;
+}
+
+
+
