@@ -59,11 +59,10 @@ div {
     padding-top: 1rem;
   }
   
-  .inputs {
-    height: 35px;
-    background-color: #dddddd;
-    /* border: none; */
-    border:1px solid #ffffff;
+  .Inputs {
+    height: 40px;
+    background-color: #afadad;
+    border:1px solid #e2e2e2;
     border-radius: 5px;
     margin-bottom: 10px;
     padding: 0 10px;
@@ -78,7 +77,7 @@ div {
   }
   
   .form a {
-    color: #bbbbbb;
+    color: #8b4747;
     text-align: center;
     /* margin: 15px 0; */
   }
@@ -143,7 +142,6 @@ div {
     width: 50%;
     background-color: #607def;
     border-radius: 90px 30px 30px 90px;
-  
     display: flex;
     justify-content: center;
     width: 50%;
@@ -165,11 +163,6 @@ div {
     color: rgb(252, 252, 252);
     margin: 1rem 0;
   }
-  
-  .button2 {
-    
-  }
-  
   .btncrear {
     background-color: transparent;
     border: 2px solid #ffffff;
@@ -181,7 +174,7 @@ div {
   }
   
   .carousel-inner {
-    height: 150px;
+    height: 175px;
     margin-top: 15px;
   }
   
@@ -193,3 +186,7 @@ div {
     font-size: 90px;
   
   }
+  .Link{
+    font-size: 20px;
+    color: #ececec;
+    }
